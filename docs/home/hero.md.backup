@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Supreme Linux , the debian based distro of the elite !"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "supremelogo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,7 +51,8 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-** Supreme Linux , the debian based distro of the elite !**
+Supreme Linux , one Distro to rule them all !!
+Based on Debian Sid and comes with latest kernel,mesa,nvidia and packagesversions
 
 Build **Anything** with Widgets
 
