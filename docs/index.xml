@@ -7,7 +7,7 @@
     <description>Supreme Linux , the debian based distro of the elite !</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://supremelinux.github.io/supremelinux/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://supremelinux.github.io/supremelinux/images/icon_hucafad08ae7bdf671c9be232723b3119e_9234_512x512_fill_lanczos_center_2.png</url>
       <title>Supreme Linux , the debian based distro of the elite !</title>
       <link>https://supremelinux.github.io/supremelinux/</link>
     </image>
@@ -105,7 +105,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-234159687&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-725386491&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -115,7 +115,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-234159687&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-725386491&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
