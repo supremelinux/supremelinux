@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supreme Linux , the debian based distro of the elite !</title>
+    <link>https://supremelinux.github.io/supremelinux/author/</link>
+      <atom:link href="https://supremelinux.github.io/supremelinux/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supreme Linux , the debian based distro of the elite !</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://supremelinux.github.io/supremelinux/images/icon_hucafad08ae7bdf671c9be232723b3119e_9234_512x512_fill_lanczos_center_2.png</url>
+      <title>Supreme Linux , the debian based distro of the elite !</title>
+      <link>https://supremelinux.github.io/supremelinux/author/</link>
+    </image>
+    
+  </channel>
+</rss>
