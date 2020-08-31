@@ -21,7 +21,7 @@ image:
 ---
 https://www.youtube.com/watch?v=uKq0IeXGr9s
 {{< youtube uKq0IeXGr9s >}}
-Thank you for kind review , i used a virtualbox to make this distro but next time i will build it on my computer on a seperate external disk there are a lot of stuff missing.
+Thank you for kind review , i used a virtualbox to make this distro but next time i will build it on my computer on a seperate external disk there are a lot of stuff that need work, its purely experimental.
 1) calamares asks for a password where it shouldn't
 2) Sudoers file need modification
 3) Some startup scripts to configure stuff 
@@ -31,3 +31,4 @@ Thank you for kind review , i used a virtualbox to make this distro but next tim
 7) Adding efi support cause virtualbox that i used to create this distro had some issues with that i don't know what seems to be the problem but next time i will build from my physical desktop computer on a seperate external hard disk.
  
  Again thank you for your time ... someone had to do a Debian Sid based distro .....
+ 

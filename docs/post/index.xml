@@ -5,7 +5,7 @@
     <link>https://supremelinux.github.io/supremelinux/post/</link>
       <atom:link href="https://supremelinux.github.io/supremelinux/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://supremelinux.github.io/supremelinux/images/icon_hucafad08ae7bdf671c9be232723b3119e_9234_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,18 +13,9 @@
     </image>
     
     <item>
-      <title>First Experimental pre-alpha Release testing and support me on Patreon</title>
-      <link>https://supremelinux.github.io/supremelinux/post/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://supremelinux.github.io/supremelinux/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Support me on Patreon &lt;a href=&#34;https://www.patreon.com/bePatron?u=41473280&#34;&gt;https://www.patreon.com/bePatron?u=41473280&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Supreme Linux -experimental release reviewed by the &#34;Linux Project&#34; youtube channel</title>
       <link>https://supremelinux.github.io/supremelinux/post/review-linuxproject/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://supremelinux.github.io/supremelinux/post/review-linuxproject/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uKq0IeXGr9s&#34;&gt;https://www.youtube.com/watch?v=uKq0IeXGr9s&lt;/a&gt;
 
@@ -43,6 +34,15 @@ Thank you for kind review , i used a virtualbox to make this distro but next tim
 &lt;li&gt;Adding efi support cause virtualbox that i used to create this distro had some issues with that i don&amp;rsquo;t know what seems to be the problem but next time i will build from my physical desktop computer on a seperate external hard disk.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Again thank you for your time &amp;hellip; someone had to do a Debian Sid based distro &amp;hellip;..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Experimental pre-alpha Release testing and support me on Patreon</title>
+      <link>https://supremelinux.github.io/supremelinux/post/getting-started/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://supremelinux.github.io/supremelinux/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Support me on Patreon &lt;a href=&#34;https://www.patreon.com/bePatron?u=41473280&#34;&gt;https://www.patreon.com/bePatron?u=41473280&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
