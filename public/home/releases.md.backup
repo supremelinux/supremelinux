@@ -31,7 +31,7 @@ design:
 You can check and download the latest isos  from there
 https://drive.google.com/drive/folders/1imwUDUyYh-LgGbwvbx5AXk_UD8-zGAU5?usp=sharing
 note the its in experimental pre-alpha stage
-**The password for the installer is: supremelinux **
+The password for the installer is: supremelinux
 Right now on the installed system you need to switch alt+f3 to a console and do
 sudo nano /etc/sudoers file and add this line 
 chris	ALL=(ALL:ALL) ALL

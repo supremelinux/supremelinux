@@ -47,7 +47,9 @@ hero_media = "supremelogo.png"
   label = "Donate now ! Please consider helping this project if you want it to grow"
 
 
-+++
 
++++
 Supreme Linux , one Distro to rule them all !!
 Based on Debian Sid and comes with the latest kernel,mesa,nvidia and package versions !
+
+
