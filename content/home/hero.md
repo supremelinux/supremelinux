@@ -37,7 +37,7 @@ hero_media = "supremelogo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://drive.google.com/drive/folders/1imwUDUyYh-LgGbwvbx5AXk_UD8-zGAU5?usp=sharing"
+  url = "https://sourceforge.net/projects/supreme-linux/files/"
   label = "Check for the latest iso images to download !"
   icon_pack = "fas"
   icon = "download"
@@ -51,5 +51,5 @@ hero_media = "supremelogo.png"
 +++
 Supreme Linux , one Distro to rule them all !!
 Based on Debian Sid and comes with the latest kernel,mesa,nvidia and package versions !
-
+[![Download Supreme Linux](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/supreme-linux/files/latest/download)
 

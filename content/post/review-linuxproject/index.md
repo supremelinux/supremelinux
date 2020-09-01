@@ -1,0 +1,34 @@
+---
+title: 'Supreme Linux -experimental release reviewed by the "Linux Project" youtube channel'
+subtitle: 'Supreme Linux on Youtube'
+summary: We're on youtube
+date: "2020-08-31"
+lastmod: "2020-08-31"
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](featured.jpg)'
+  focal_point: ""
+  preview_only: false
+
+
+---
+https://www.youtube.com/watch?v=uKq0IeXGr9s
+{{< youtube uKq0IeXGr9s >}}
+Thank you for kind review , i used a virtualbox to make this distro but next time i will build it on my computer on a seperate external disk there are a lot of stuff that need work, its purely experimental.
+1) calamares asks for a password where it shouldn't
+2) Sudoers file need modification
+3) Some startup scripts to configure stuff 
+4) A Supreme Utility Center to help with tasks that debian users usually do.
+5) A plymouth theme and more sane and better wallpapers that would support the supreme linux logo.
+6) A lot of Testing with computers with amd gpus,nvidia gpus ,intel etc it needs to have the drivers preinstalled.
+7) Adding efi support cause virtualbox that i used to create this distro had some issues with that i don't know what seems to be the problem but next time i will build from my physical desktop computer on a seperate external hard disk.
+ 
+ Again thank you for your time ... someone had to do a Debian Sid based distro .....
+ 

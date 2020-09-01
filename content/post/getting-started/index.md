@@ -2,8 +2,7 @@
 title: 'First Experimental pre-alpha Release testing and support me on Patreon'
 subtitle: 'First Experimental pre-alpha Release'
 summary: First Experimental pre-alpha Release
-# date: "2020-08-30T00:00:00Z"
-#lastmod: "2019-04-17T00:00:00Z"
+date: "2020-08-30T00:00:00Z"
 featured: false
 draft: false
 

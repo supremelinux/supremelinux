@@ -5,7 +5,7 @@
     <link>https://supremelinux.github.io/supremelinux/post/</link>
       <atom:link href="https://supremelinux.github.io/supremelinux/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://supremelinux.github.io/supremelinux/images/icon_hucafad08ae7bdf671c9be232723b3119e_9234_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,9 +13,43 @@
     </image>
     
     <item>
+      <title>...some small touches to make it seem more serious -wallpapers removed</title>
+      <link>https://supremelinux.github.io/supremelinux/post/some-esthetic-touces/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://supremelinux.github.io/supremelinux/post/some-esthetic-touces/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;hellip;some small touches to make it seem more serious -wallpapers removed&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supreme Linux -experimental release reviewed by the &#34;Linux Project&#34; youtube channel</title>
+      <link>https://supremelinux.github.io/supremelinux/post/review-linuxproject/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://supremelinux.github.io/supremelinux/post/review-linuxproject/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uKq0IeXGr9s&#34;&gt;https://www.youtube.com/watch?v=uKq0IeXGr9s&lt;/a&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uKq0IeXGr9s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+Thank you for kind review , i used a virtualbox to make this distro but next time i will build it on my computer on a seperate external disk there are a lot of stuff that need work, its purely experimental.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;calamares asks for a password where it shouldn&amp;rsquo;t&lt;/li&gt;
+&lt;li&gt;Sudoers file need modification&lt;/li&gt;
+&lt;li&gt;Some startup scripts to configure stuff&lt;/li&gt;
+&lt;li&gt;A Supreme Utility Center to help with tasks that debian users usually do.&lt;/li&gt;
+&lt;li&gt;A plymouth theme and more sane and better wallpapers that would support the supreme linux logo.&lt;/li&gt;
+&lt;li&gt;A lot of Testing with computers with amd gpus,nvidia gpus ,intel etc it needs to have the drivers preinstalled.&lt;/li&gt;
+&lt;li&gt;Adding efi support cause virtualbox that i used to create this distro had some issues with that i don&amp;rsquo;t know what seems to be the problem but next time i will build from my physical desktop computer on a seperate external hard disk.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Again thank you for your time &amp;hellip; someone had to do a Debian Sid based distro &amp;hellip;..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>First Experimental pre-alpha Release testing and support me on Patreon</title>
       <link>https://supremelinux.github.io/supremelinux/post/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://supremelinux.github.io/supremelinux/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Support me on Patreon &lt;a href=&#34;https://www.patreon.com/bePatron?u=41473280&#34;&gt;https://www.patreon.com/bePatron?u=41473280&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
