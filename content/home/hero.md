@@ -43,8 +43,8 @@ hero_media = "supremelogo.png"
   icon = "download"
 
 [cta_alt]
-  url = "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=chrisfromgreece%40gmail.com&item_name=Support+Supreme+Linux&currency_code=USD&amount=5.55&source=url"
-  label = "Donate now ! Please consider helping this project if you want it to grow"
+  url = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K652YDEK3FSF2&source=url"
+  label = "Donate now ! Its only 1$ Please show you are interested on this project consider helping this project if you want it to grow, share the link to the website"
 
 
 

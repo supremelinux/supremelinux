@@ -19,4 +19,4 @@ image:
 
 ---
 
-**...some small touches to make it seem more serious -wallpapers removed**
+**...some small touches to make it seem more serious -wallpapers removed and replaced with wallpapers created by PublicDomain images !!!**
