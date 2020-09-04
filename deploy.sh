@@ -1,5 +1,5 @@
 #!/bin/sh
-
+cp /home/chris/supremelinux-git/  /Diskos/backup/ -r -f
 # If a command fails then the deploy stops
 set -e
 
@@ -24,4 +24,5 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
 
