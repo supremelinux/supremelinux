@@ -1,0 +1,50 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/header.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "Why Supreme Linux ?"
+  images:
+    - "images/slider/slider-img-1.jpg"
+    - "images/slider/slider-img-2.jpg"
+    - "images/slider/slider-img-3.jpg"
+    - "images/slider/slider-img-4.jpg"
+    - "images/slider/slider-img-1.jpg"
+    - "images/slider/slider-img-2.jpg"
+    - "images/slider/slider-img-3.jpg"
+    - "images/slider/slider-img-4.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/cooker-img.png"
+  title : "About Supreme Linux"
+  description : "****<span> Supreme Linux is a Linux distribution based on Debian Sid, it is in experimental stage , it will be easy to use with graphics drivers preistalled and with utility center to manage your debian system easier , packages are gonna be bleeding edge always updating with latest versions of drivers and firmware. It uses the Gnome graphical environment and it will bring the best Gnome experience ot the users . We are gonna make some tweaks to accelerate 3d performance and battery efficiency on laptops and also have a software boutique so you can download applications/packages that are not available from Debian Sid Repositories. It will be a pretty stable Modern and fast Linux Distribution.</span>**** 
+
+     Download from Here
+  [![Download Supreme Linux](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/supreme-linux/files/latest/download)
+  
+  
+  See the latest releases on our sourceforge Directory https://sourceforge.net/projects/supreme-linux/files/
+  "
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "Our Latest <span>Blog</span>"
+  bg_image : "images/blog/blog-bg.jpg"
+  overlay : true
+
+
+################# donation Menu ################
+pricing:
+  enable : true
+  title : "<span>Donate its only 2$  !</span>"
+  description: " Donate if you are interested in this project , help this project by donating or sharing this website on social media ! If people are interested this project will continue...if not there's no reason anyway."
+
+ 
+

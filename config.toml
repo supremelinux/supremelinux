@@ -1,3 +1,125 @@
+######################## default configuration ####################
 baseURL = "https://supremelinux.github.io/supremelinux/"
 languageCode = "en-us"
-title = "Supreme Linux , the debian based distro of the elite !"
+title = "Supreme Linux ! The Debian Sid based Distro for the Elite !"
+theme = "restaurant-hugo"
+summaryLength = "10"
+paginate = 4
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "css/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "css/slick.css"
+[[params.plugins.css]]
+URL = "css/font-awesome.min.css"
+[[params.plugins.css]]
+URL = "css/animate.min.css"
+[[params.plugins.css]]
+URL = "css/venobox.css"
+[[params.plugins.css]]
+URL = "css/main.css"
+[[params.plugins.css]]
+URL = "css/responsive.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/jquery.min.js"
+[[params.plugins.js]]
+URL = "js/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "js/slick.min.js"
+[[params.plugins.js]]
+URL = "js/wow.min.js"
+[[params.plugins.js]]
+URL = "js/venobox.min.js"
+[[params.plugins.js]]
+URL = "js/main.js"
+
+############################## navigation ###############################
+
+[[menu.main]]
+name = "Home"
+URL = "hero-area"
+weight = 1
+
+[[menu.main]]
+name = "About Supreme Linux"
+URL = "about-us"
+weight = 2
+
+[[menu.main]]
+name = "News/Blog"
+URL = "blog"
+weight = 3
+
+[[menu.main]]
+name = "Donate"
+URL = "price"
+weight = 4
+
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# meta data
+author = "Themefisher"
+description = "This is meta description"
+# google analitycs ID
+google_analitycs_id = "Your ID"
+# mainSections
+main_sections = ["post"]
+# copyright
+copyright = "...Supreme Linux.....the Linux Distro for the Elite !"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use .png , .svg or .gif format
+
+################################### Footer ############################
+[params.footer]
+enable = true
+contactInfoTitle = "CONTACT <span>INFO</span> "
+blogTitle = "LATEST <span>BLOG POSTS</span>"
+galleryTitle = "PHOTO <span>STREAM</span>"
+socialTitle = "Follow <span>US</span>"
+
+############################ footer contact item
+[[params.footer.contactItem]]
+title="E mail"
+icon = "fa fa-envelope"
+content = "chrisfromgreece@gmail.com"
+
+######################### footer gallery
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-3.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-4.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
+
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
+
+######################## Social Icon 
+[[params.footer.socialLink]]
+icon = "facebook"
+link = "https://www.facebook.com/Supremelinuxdev"
+
+
+[[params.footer.socialLink]]
+icon="discord"
+link = "https://discord.gg/3HP2EA"
+
