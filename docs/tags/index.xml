@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Supreme Linux , the debian based distro of the elite !</title>
+    <title>Tags on Supreme Linux ! The Debian Sid based Distro for the Elite !</title>
     <link>https://supremelinux.github.io/supremelinux/tags/</link>
-      <atom:link href="https://supremelinux.github.io/supremelinux/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://supremelinux.github.io/supremelinux/images/icon_hucafad08ae7bdf671c9be232723b3119e_9234_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://supremelinux.github.io/supremelinux/tags/</link>
-    </image>
+    <description>Recent content in Tags on Supreme Linux ! The Debian Sid based Distro for the Elite !</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://supremelinux.github.io/supremelinux/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
